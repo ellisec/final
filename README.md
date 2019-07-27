@@ -11,7 +11,7 @@ I used information pulled from a proprietary database using SQL Developer. In or
 Future releases would include all countries, as well as breaking down the data further to predict rates for future months.
 
 # CODING
-SQL, Tableau, Python
+SQL, Tableau
 
 ``select round(avg(rate),2)
 ,id
