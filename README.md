@@ -1,5 +1,5 @@
 # FINAL PROJECT
-https://as2.ftcdn.net/jpg/00/09/21/15/500_F_9211505_d4hxfNtPeTfgt7AeGmoO7u79P2hwxkoQ.jpg
+#[![INSERT YOUR GRAPHIC HERE](https://as2.ftcdn.net/jpg/00/09/21/15/500_F_9211505_d4hxfNtPeTfgt7AeGmoO7u79P2hwxkoQ.jpg)
 
 # PURPOSE OF ANALYSIS
 This project is designed to show where hotels are clustered and their corresponding average market rates by year. Using the year over year rate information, you would be able to predict what the following year averages may be.
